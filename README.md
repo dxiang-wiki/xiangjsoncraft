@@ -312,7 +312,8 @@ SOFTWARE.
 
 如果你有任何问题或建议，请通过以下方式联系我们：
 
-- GitHub Issues: https://github.com/yourusername/xiangjsoncraft/issues
-- Email: xiang@example.com
+- GitHub Issues: https://github.com/dxiang-wiki/xiangjsoncraft/issues
+- csdn:  dxiang.blog.csdn.net
+- Email: 3631247406@qq.com
 
 感谢使用XiangJsonCraft！
